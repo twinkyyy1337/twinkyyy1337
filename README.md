@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @twinkyyy1337
-- 👀 меня интересует по взлому и айти
+- 👀 меня интересует по взлому и айтиiшник
 - 🌱 I’m currently learning  айтишнику и хочу стать взломшиком
-- 💞️ I’m looking to collaborate  Githubа
-- 📫 How to reach me как хотите
+- 💞️ I’m looking to collaborate  профиссионала
+- 📫 How to reach me вежливее
 
 <!---
 twinkyyy1337/twinkyyy1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
